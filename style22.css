@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 40px;
+  }
+  main{
+    background-color:#ebebeb;
+  }
+  p{
+    text-align: center;
+    font-size: 15px;
+    font-family: Helvetica;
+  }
+  header{
+    margin-top:30px;
+    padding: 20px;
+    
+  }
+  #image{
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    
+  }
+  #img-div{
+    background-color: white;
+  }
+
+  #list{
+    background-color:#ebebeb;
+    padding: 0px 400px 0px 400px;
+    
+    font-family: "Segoe UI";
+  }
+  li{
+    padding-bottom:25px;
+  }
+  #note{
+    font-style: italic;
+    text-align: center;
+    font-style:italic;
+  }
+
+  #motfin{
+    font-family:arial; 
+    font-size: 20px;
+    padding-bottom: 50px;
+    
+  }
+  
